@@ -1,6 +1,7 @@
 Bullet Frenzy is a 3D shooting game developed using Python + PyOpenGL. Take control of an avatar, eliminate incoming adversaries, and survive the chaos! Features include first-person and third-person modes, targeting systems, projectile mechanics, health, score tracking, and real-time HUD display.
 
-Features
+
+Features:
 
 Player avatar with movement mechanics
 
@@ -18,7 +19,9 @@ Game interface showing health, score, and missed shots
 
 Game over detection and restart (r)
 
-Controls
+
+
+Controls:
 
 W/A/S/D:	Move and rotate the avatar
 
